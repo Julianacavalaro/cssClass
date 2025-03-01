@@ -1,0 +1,15 @@
+.destaque {
+    color: red;
+    max-width: fit-content;
+    background-color: yellow;
+    font-weight: bold;
+}
+
+p.destaque {
+    font-size: 20px;
+}
+
+li.destaque {
+    border: 1px solid gray;
+    text-decoration: underline;
+}

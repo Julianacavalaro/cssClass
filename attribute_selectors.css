@@ -1,0 +1,7 @@
+a[target] {
+    color: red;
+}
+
+[type="text"] {
+    border: 3px solid black;
+}

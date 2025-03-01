@@ -1,0 +1,9 @@
+p {
+    margin: 5px;
+    font-weight: bold;
+    font-family: Arial;
+}
+
+em {
+    color: red;
+}

@@ -1,0 +1,9 @@
+ nav li {
+     display: inline;
+     padding: 10px;
+     background-color: lightgray;
+ }
+
+ ul.topicos>li {
+     text-decoration: underline;
+ }
